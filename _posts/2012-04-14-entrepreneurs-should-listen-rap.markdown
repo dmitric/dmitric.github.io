@@ -33,7 +33,7 @@ Deciding to quit my day job and work like an animal:
 > When I'm awake, you always restin'<br/>
 > And when they call you the answer, you are hardly question,<br/>
 > I'm doin' classic shit in all my sessions<br />
-> Other n*ggas' situations, they are all depressin'<br />
+> Other n\*ggas' situations, they are all depressin'<br />
 > That's why I never follow y'all suggestions<br />
 > I just always did my own thing<br />
 >
@@ -51,7 +51,7 @@ Me coming to terms with visa issues as a Canadian:
 Having to let go of a cofounder who wasn't pulling their weight:
 
 > Kobe 'bout to lose a hundred fifty M’s<br />
-> Kobe my n*gga I hate it had to be him<br />
+> Kobe my n\*gga I hate it had to be him<br />
 > Bitch you wasn't with me shooting in the gym<br />
 > (Bitch you wasn't with me shooting in the gym)<br />
 >
