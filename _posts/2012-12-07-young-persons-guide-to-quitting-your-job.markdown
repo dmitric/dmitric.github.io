@@ -71,7 +71,4 @@ In my next post, I will outline what <a href="http://backspac.es/SandersAK">Adri
   
 Highlights include: Going from idea to prototype in 3 days, getting beta testers within the first week, our magic "two week" iteration cycles, open sourcing Instagram over a weekend, our 3 month app store deadline, and more.
 
-You should follow me on Twitter (<a href="http://twitter.com/dmitric">@dmitric</a>) to watch this happening in real time.
--------------------
-
 Thanks to <a href="http://twitter.com/jcottr">@jcottr</a>, <a href="http://twitter.com/SandersAK">@SandersAK</a>, and <a href="http://twitter.com/jacobfsamuel">@jacobfsamuel</a> for reviewing this post.
