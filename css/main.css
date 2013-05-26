@@ -133,6 +133,7 @@ font-family: 'Raleway', sans-serif;
 
 .site {
   font-size: 115%;
+  max-width:100%;
   width: 42em;
   margin: 12em auto 2em;
   line-height: 1.5em;
