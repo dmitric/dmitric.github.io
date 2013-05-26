@@ -1,2 +1,0 @@
-dmitric.github.io
-=================
