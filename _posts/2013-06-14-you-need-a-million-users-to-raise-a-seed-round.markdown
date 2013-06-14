@@ -25,7 +25,7 @@ image: http://i.imgur.com/ND5z5vK.jpg
 
 #My thoughts on the future of consumer seed funding#
 
-Companies that have massive traction will still be able to raise seed rounds without much trouble. Although chat apps are hot with investors right now due to their inherent viral nature, recall that services like AIM, ICQ, and MSN Messenger all faded away.
+Companies that have massive traction will still be able to raise seed rounds without much trouble. Although chat apps are hot with investors right now due to their inherent viral nature, recall that services like AIM, ICQ, and MSN Messenger all faded away with regards to usage.
 
 In the near future, investors would rather provide bridge financing for founders and companies they have already invested in, or wait to see what happens to companies with a few hundred thousand users before investing in new companies with less than 100K users.
 
