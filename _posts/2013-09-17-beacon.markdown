@@ -16,7 +16,7 @@ We've worked on numerous projects together with varying levels of success, but t
 
 That last one, although vague, is probably the most important. It's the reason I do what I do, and will continue to do what I do instead of working a high paying job and going out for fancy dinners every night -- in spite of constant failure and constant rejection ;)
 
-Whether trying to help the less fortunate, or building tools to help folks express themselves in meaningful ways, we're fighting to keep the internet from collapsing on itself into some giant gif/meme/top-10 cluster fuck. We live in a world where 'good taste' is all to often replaced with novelty, so I have nothing but respect for anyone else trying to do the same.
+Whether trying to help the less fortunate, or building tools to help folks express themselves in meaningful ways, we're fighting to keep the internet from collapsing on itself into some giant gif/meme/top-10 cluster fuck. We live in a world where 'good taste' is all too often replaced with novelty, so I have nothing but respect for anyone else trying to do the same.
 
 ## With that said, I'd like to introduce you to [Beacon](http://beaconreader.com) - it empowers writers by letting you fund their work directly.
 
