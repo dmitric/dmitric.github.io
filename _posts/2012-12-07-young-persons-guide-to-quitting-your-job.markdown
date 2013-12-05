@@ -4,6 +4,7 @@ title:  "A young person's guide to quitting your day job"
 date:   2012-12-07 20:21:28
 categories: startups
 image: http://www.monsterworking.com/wp-content/uploads/I_quit_postit2.jpg
+published: false
 ---
 
 About 6 months ago I quit my hedge fund job to start building <a href="http://backspac.es" target="_blank">something</a> with my friend <a href="http://twitter.com/SandersAK">Adrian</a>. I figured I'd write a little about my experience, and hopefully offer some insight or advice to those of you considering doing the same.

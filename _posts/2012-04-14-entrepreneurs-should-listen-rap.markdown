@@ -4,6 +4,7 @@ title:  "Entrepreneurs should listen to rap music"
 date:   2012-04-18 20:21:28
 categories: startups
 image: http://api.ning.com/files/SwQVG46f1g-vmzFrAPNmzBqNjtWAcizi0odcgXxomnRV5CNE4MH1RwgsrLXZp6Scbe08d1wPiFodQWKS421toZRtXMnkJ24r/gucci_mane.jpg
+published: false
 ---
 
 I've always enjoyed <a href="http://bhorowitz.com/" target="_blank">ben's blog</a> for it's straight forward, and insightful articles.

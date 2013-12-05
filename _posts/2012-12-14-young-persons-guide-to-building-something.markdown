@@ -4,6 +4,7 @@ title: "A young person’s guide to actually building something"
 date: 2012-12-14 20:21:28
 categories: startups
 image: http://zmitri.files.wordpress.com/2012/12/8eced-square-feature-scaled1000.jpg?w=500&h=500
+published: false
 ---
 
 In my [last post](/startups/2012/12/07/young-persons-guide-to-quitting-your-job.html), I spoke about why I went from being a salaried employee to starting my own company, [Backspaces](http://backspac.es). In this post I’m going to outline the approach my team and I took to actually building something over the course of 6 months.

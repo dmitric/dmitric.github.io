@@ -4,6 +4,7 @@ title:  "You need a million users to raise a (consumer) seed round"
 date:   2013-06-14 10:00:00
 categories: startups
 image: http://i.imgur.com/ND5z5vK.jpg
+published: false
 ---
 *<sub style="line-height:0.9em;"><sup>This post focuses on how the consumer-mobile funding landscape has changed over the past year. It includes what I believe to be fairly accurate numbers and guidelines for entrepreneurs without serious track records, as well as my own conclusions on the future of consumer-mobile apps.</sup></sub>*
 
