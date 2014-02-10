@@ -4,7 +4,6 @@ title:  "Beacon: Something new and something old"
 date:   2013-09-17 10:00:00
 categories: startups
 image: http://25.media.tumblr.com/avatar_aa368c6d5c31_128.png
-published: false
 ---
 
 Over the past 2.5 years I've worked with, lived with, argued with -- and mostly importantly -- built great things with Adrian.

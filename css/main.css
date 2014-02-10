@@ -277,3 +277,48 @@ font-family: 'Raleway', sans-serif;
 #post pre.terminal code {
   background-color: #333;
 }
+.post-overview {
+  margin: 20px 0 40px 0;
+}
+.overview-box {
+  border: 1px solid #d0d5cb;
+  padding: 15px;
+  background-color: #f5f5f5;
+}
+
+.overview-title {
+  font-size: 15px;
+  text-transform: uppercase;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  padding-bottom: 5px;
+  display: block;
+  float: none;
+  line-height: 20px;
+}
+
+p.overview {
+  margin: 0;
+  line-height: 23px;
+  min-height: 23px;
+  font-size: 14px;
+  font-family: Georgia;
+  font-style: italic;
+}
+
+
+@media (max-width: 767px) {
+  .container {
+    margin-left:22px;
+    margin-right: 22px;
+  }
+}
+
+@media (max-width: 500px){
+  #post-contents {
+    zoom: 0.8;
+  }
+  .header ~ h2 {
+    zoom: 0.8;
+  }
+}
