@@ -3,6 +3,7 @@ layout: post
 title: "A young person’s guide to actually building something"
 date: 2012-12-14 20:21:28
 categories: startups
+published: False
 image: http://zmitri.files.wordpress.com/2012/12/8eced-square-feature-scaled1000.jpg?w=500&h=500
 ---
 
