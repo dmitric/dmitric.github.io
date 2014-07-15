@@ -3,7 +3,6 @@ layout: post
 title:  "A young person's guide to quitting your day job"
 date:   2012-12-07 20:21:28
 categories: startups
-published: False
 image: http://www.monsterworking.com/wp-content/uploads/I_quit_postit2.jpg
 ---
 
